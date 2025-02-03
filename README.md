@@ -10,7 +10,7 @@ This repository is a forked version of the base [NodeBB repository](https://gith
 
 ### [Demo](https://try.nodebb.org) | [Documentation](https://docs.nodebb.org)
 
-## Theming
+## Theming a
 
 NodeBB's theming engine is highly flexible and does not restrict your design choices. This version of the repository has our minimalist "Persona" theme installed to get you started.
 
